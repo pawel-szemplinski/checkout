@@ -1,0 +1,15 @@
+com\szemplinski\checkout\CartItem$1.class
+com\szemplinski\checkout\Cart.class
+com\szemplinski\checkout\promotions\Buy3CheapestFreePromo.class
+com\szemplinski\checkout\ItemTypeEnum.class
+com\szemplinski\checkout\Item.class
+com\szemplinski\checkout\promotions\PromoTypeEnum.class
+com\szemplinski\checkout\promotions\BuyNXGetKYPromo$Bonus.class
+com\szemplinski\checkout\promotions\BuyNXGetKYPromo$Condition.class
+com\szemplinski\checkout\promotions\BuyNXGetKYPromo$ConditionBonus.class
+com\szemplinski\checkout\promotions\BuyNXGetKYPromo.class
+com\szemplinski\checkout\CartItem.class
+com\szemplinski\checkout\CheckoutService.class
+com\szemplinski\checkout\promotions\Buy2Promo.class
+com\szemplinski\checkout\promotions\Buy3PayFor2Promo.class
+com\szemplinski\checkout\promotions\Promotion.class
